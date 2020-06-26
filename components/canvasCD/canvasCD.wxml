@@ -1,0 +1,8 @@
+<!--  
+ * 扇形进度倒计时
+ -->
+<view class='canvas-cd'>
+  <canvas style="width: {{CDrw}}px; height: {{CDrh}}px;" canvas-id="canvasCd"></canvas>
+</view>
+  
+

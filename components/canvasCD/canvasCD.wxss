@@ -1,0 +1,10 @@
+/**
+ * 扇形进度倒计时
+ */
+.canvas-cd {
+  position: relative;
+  top: 30rpx;
+  width: 116rpx;
+  height: 116rpx;
+  margin: 0 auto;
+}
